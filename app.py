@@ -55,7 +55,7 @@ def solve(equation, variable):
 
 
 # Streamlit interface
-st.title("Scientific Calculator (fx-991ES PLUS)")
+st.title("Scientific Calculator Created By Majid Ali")
 
 # Operation selection
 operation = st.selectbox(
